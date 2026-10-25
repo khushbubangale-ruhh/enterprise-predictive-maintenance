@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Trained models and generated reports
+models/*.joblib
+reports/*.json
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db

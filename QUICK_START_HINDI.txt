@@ -1,0 +1,6 @@
+1. ZIP Extract All karo, VS Code mein predictive_maintenance_project folder open karo.
+2. Terminal kholo aur README ke Windows commands ek-ek karke run karo.
+3. Dataset download ke liye internet chahiye.
+4. Training ke baad Streamlit app run karo.
+5. API optional hai: README mein command di gayi hai.
+6. Ye portfolio prototype hai; real factory deployment nahi.
